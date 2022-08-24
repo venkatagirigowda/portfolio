@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5e966ace.css",
+    "main.js": "/portfolio/static/js/main.79cdaa38.js",
+    "static/media/reactketo.png": "/portfolio/static/media/reactketo.4bbe269e9d5bfecad49f.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/mernecom.png": "/portfolio/static/media/mernecom.2df4ce855078149b9eca.png",
+    "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/reacttravel1.png": "/portfolio/static/media/reacttravel1.0e4fc70e90ba0a74f94b.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Myphoto2.jpg": "/portfolio/static/media/Myphoto2.479fb97c624a2803fba7.jpg",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.0427f3ff41a5e9a0c8f0.png",
+    "index.html": "/portfolio/index.html",
+    "main.5e966ace.css.map": "/portfolio/static/css/main.5e966ace.css.map",
+    "main.79cdaa38.js.map": "/portfolio/static/js/main.79cdaa38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e966ace.css",
+    "static/js/main.79cdaa38.js"
+  ]
+}
